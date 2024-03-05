@@ -17,6 +17,10 @@ next.js的路由是通过创建不同的pages来实现，通过创建不同的�
    目的:
    By debouncing, you can reduce the number of requests sent to your database, thus saving resources.
 ### 五、Server Actions
-    
+
+### 六、权限登录
+Email: user@nextmail.com
+Password: 123456
+
    
 
